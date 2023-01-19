@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - tag - Eli&#39;s Notes</title>
+        <link>https://jielite.github.io/tags/</link>
+        <description>Tags - tag - Eli&#39;s Notes</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 11 Jan 2023 19:18:40 &#43;0800</lastBuildDate><atom:link href="https://jielite.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>booknotes</title>
+    <link>https://jielite.github.io/tags/booknotes/</link>
+    <pubDate>Wed, 11 Jan 2023 19:18:40 &#43;0800</pubDate>
+    <author></author>
+    <guid>https://jielite.github.io/tags/booknotes/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

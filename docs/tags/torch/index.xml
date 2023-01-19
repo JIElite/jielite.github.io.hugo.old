@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>torch - tag - Eli&#39;s Notes</title>
+        <link>https://jielite.github.io/tags/torch/</link>
+        <description>torch - tag - Eli&#39;s Notes</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 19 Sep 2022 03:10:40 &#43;0800</lastBuildDate><atom:link href="https://jielite.github.io/tags/torch/" rel="self" type="application/rss+xml" /><item>
+    <title>Introduction to Contrastive Learning</title>
+    <link>https://jielite.github.io/posts/intro_contrastive_learning/</link>
+    <pubDate>Mon, 19 Sep 2022 03:10:40 &#43;0800</pubDate>
+    <author></author>
+    <guid>https://jielite.github.io/posts/intro_contrastive_learning/</guid>
+    <description><![CDATA[1 2 3 import numpy as np x = np.random.randn(*shape) Test for Math $$ 1 + 1 = 2 \sum_{i=1}{1} $$]]></description>
+</item><item>
+    <title>First_post</title>
+    <link>https://jielite.github.io/posts/first_post/</link>
+    <pubDate>Wed, 10 Feb 2021 03:10:40 &#43;0800</pubDate>
+    <author></author>
+    <guid>https://jielite.github.io/posts/first_post/</guid>
+    <description><![CDATA[1 2 3 import numpy as np x = np.random.randn(*shape) Test for Math $$ 1 + 1 = 2 \sum_{i=1}{1} $$]]></description>
+</item></channel>
+</rss>
