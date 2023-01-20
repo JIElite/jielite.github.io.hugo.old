@@ -30,7 +30,7 @@ SHOW YOUR WORK!
 如果 《點子都是偷來的》是一本如何從別人身上偷學影響力的書，這本書則是讓你學會發揮影響力的書，讓人從你身上偷學。
 
 &nbsp;
-### Ch.1 You don’t have to be a genius
+### Ch.1 YOU DON'T HAVE TO BE A GENIUS
 
 眾才：好點子通常是由一群創意人生出來的。
 
