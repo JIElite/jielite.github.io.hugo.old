@@ -6,7 +6,7 @@ languageCode = "en"
 title = "Eli's Notes"
 
 # Change the default theme to be use when building the site with Hugo
-theme = "PaperMod"
+theme = "LoveIt"
 publishDir = "docs"
 
 [author]

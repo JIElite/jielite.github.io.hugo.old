@@ -1,13 +1,13 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title> - Eli&#39;s Notes</title>
+        <title>All Posts - Eli&#39;s Notes</title>
         <link>https://jielite.github.io/posts/</link>
-        <description> | Eli&#39;s Notes</description>
+        <description>All Posts | Eli&#39;s Notes</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 21 Jan 2023 05:49:40 &#43;0800</lastBuildDate><atom:link href="https://jielite.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>書摘 - SHOW YOUR WORK! 點子就要秀出來</title>
     <link>https://jielite.github.io/posts/show-your-work/</link>
     <pubDate>Sat, 21 Jan 2023 05:49:40 &#43;0800</pubDate>
-    <author></author>
+    <author>Author</author>
     <guid>https://jielite.github.io/posts/show-your-work/</guid>
     <description><![CDATA[SHOW YOUR WORK!
 10 ways to share your creativity and get discovered
@@ -25,7 +25,7 @@ Ch.3 SHARE SOMETHING SMALL EVERY DAY.]]></description>
     <title>書摘 - 你要如何衡量你的人生？</title>
     <link>https://jielite.github.io/posts/how-will-you-measure-your-life/</link>
     <pubDate>Wed, 11 Jan 2023 19:18:40 &#43;0800</pubDate>
-    <author></author>
+    <author>Author</author>
     <guid>https://jielite.github.io/posts/how-will-you-measure-your-life/</guid>
     <description><![CDATA[Ch.1 發現生涯之樂 引言：只有相信你做的是偉大的工作，你才能獲得真正的滿足。只有熱愛你的工作，你才能做出偉大的工作。如果你還沒找到你愛的工作，那就繼續找，不要妥協。這就跟感情的事一樣，找到的時候，你自然會知道。 — Steve Jobs
 如何愛上工作？利用策略幫忙選擇工作 — 本書探討的內容
